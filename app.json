@@ -24,7 +24,7 @@
             "value":"false"
         },
         "READ_COMMAND": {
-            "description": "Bot will read all commands (blue tick). Can be also false",
+            "description": "Bot will read all commands (blue tick). Can be also true",
             "required": true,
             "value":"true"
         },
